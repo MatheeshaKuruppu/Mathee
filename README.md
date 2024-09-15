@@ -1,6 +1,6 @@
 (TheAmazo)
 22:01
-<h1 align="center">Hi 👋, I'm Thisara Sandapium</h1>
+<h1 align="center">Hi 👋, I'm Matheesha Kuruppu</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theamazo&label=Profile%20views&color=0e75b6&style=flat" alt="theamazo" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Programming languages**
 
-- 📫 How to reach me **w.a.thisarasandapium@gmail.com**
+- 📫 How to reach me **matheeshakuruppu15@gmail.com**
 
 - ⚡ Fun fact **Call me as Amazo**
 
